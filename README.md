@@ -5,9 +5,21 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...# 💫 About Me:
-MCA student with hands-on experience in frontend development and Python-based data analysis.<br><br>Worked as a Frontend Development Intern, building responsive interfaces using React.js, HTML, CSS, and JavaScript, with a strong focus on clean UI and user flow.<br><br>Built projects including an Event Management System (React.js), a Diabetes Prediction System using Python (NumPy, Pandas), and an IoT-based Contactless Smart Dustbin using ESP32.<br><br>Actively strengthening problem-solving skills and preparing for internship and entry-level developer roles where practical execution matters more than theory.
+💫 About Me
 
+MCA student focused on building real frontend applications and data-driven projects, not just academic work.
+
+Frontend Development Intern with hands-on experience developing responsive React.js interfaces using HTML, CSS, and JavaScript, with emphasis on clean UI, usability, and maintainable code.
+
+Built projects including:
+
+Event Management System (React.js)
+
+Diabetes Prediction System (Python, NumPy, Pandas)
+
+IoT-based Contactless Smart Dustbin (ESP32)
+
+Currently preparing for frontend-focused internships and entry-level developer roles, with a strong bias toward execution over theory.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/D Priti Patra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pritipatra762@gmail.com) 
